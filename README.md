@@ -64,13 +64,13 @@ for more details you should follow the Sanity Doc here https://www.sanity.io/doc
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/CapitenASA/personal-portfolio-arber.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd personal-portfolio-arber
 ```
 
 Install dependencies
