@@ -85,6 +85,12 @@ Start the server
   npm run start
 ```
 
+Build your application
+
+```bash
+  npm run build
+```
+
 
 ## Running Tests
 Application have installed also Jest Test so you can made test with simple command.
