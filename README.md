@@ -41,6 +41,24 @@ Backend
 ===============================================================
 
 ![App Screenshot](https://i.imgur.com/Sl7g0V2.png)
+## Installation Backend
+
+First of all you need to install back-end and here are instructions.
+
+```bash
+  npm create sanity@latest -- --template clean --create-project "Sanity Project" --dataset production
+
+npm install --global @sanity/cli |===>   that is important to menage from our terminal almost eveything 
+
+cd sanity-project
+
+npm run dev
+
+This will build the studio application and start a local development server so you can run the app 
+in your browser. Once the build is complete, you can head over to http://localhost:3333.
+
+for more details you should follow the Sanity Doc here https://www.sanity.io/docs/create-a-sanity-project
+```
 ## Run Locally
 
 Clone the project
@@ -68,36 +86,6 @@ Start the server
 ```
 
 
-## Installation Backend
-
-First of all you need to install back-end and here are instructions.
-
-```bash
-  npm create sanity@latest -- --template clean --create-project "Sanity Project" --dataset production
-
-npm install --global @sanity/cli |===>   that is important to menage from our terminal almost eveything 
-
-cd sanity-project
-
-npm run dev
-
-This will build the studio application and start a local development server so you can run the app 
-in your browser. Once the build is complete, you can head over to http://localhost:3333.
-
-for more details you should follow the Sanity Doc here https://www.sanity.io/docs/create-a-sanity-project
-```
-## Installation Front-end
-After you have done installation of your back-end you should follow this commands for front-end.
-Don't forget you need to install modules before to run start.
-
-```bash
-  1: npm install or npm i
-
-  2: npm start
-
-  3: npm run build 
-  this third command you need to push only after you have made all changes on front-end project.
-```
 ## Running Tests
 Application have installed also Jest Test so you can made test with simple command.
 
