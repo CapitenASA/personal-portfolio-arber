@@ -41,6 +41,11 @@ Backend
 ===============================================================
 
 ![App Screenshot](https://i.imgur.com/Sl7g0V2.png)
+
+Figma Screenshot
+===============================================================
+
+![App Screenshot](https://i.imgur.com/ZqVSwLc.png)
 ## Installation Backend
 
 First of all you need to install back-end and here are instructions.
