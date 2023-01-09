@@ -44,7 +44,10 @@ Backend
 
 Figma Screenshot
 ===============================================================
+Figma project will be available also from [Figma]([https://https://www.figma.com/file/71SPaER10pOg1UOziBTPof/My-Portfolio-Arber-Mekrizcani?t=uZM2ChByrze7ogZd-6])
 
+
+========================================================================
 ![App Screenshot](https://i.imgur.com/ZqVSwLc.png)
 ## Installation Backend
 
